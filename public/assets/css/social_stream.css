@@ -1,0 +1,2 @@
+.post__gallery{margin:-32px -16px 32px -16px}
+.gallery{display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-wrap:wrap;-webkit-flex-wrap:wrap;flex-wrap:wrap}@supports not (flex-wrap: wrap){.gallery{display:block}}.gallery__item{-ms-flex:1 0 33.333%;-webkit-flex:1 0 33.333%;flex:1 0 33.333%;display:block;padding-top:33.333%;background:center center no-repeat;background-size:cover;border:solid 1px white}
